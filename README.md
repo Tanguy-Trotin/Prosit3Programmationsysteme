@@ -1,2 +1,2 @@
 # Prosit3Programmationsysteme
- Test de 5 Dessign patterns
+ Test de 5 Design patterns
